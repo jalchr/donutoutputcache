@@ -5,6 +5,7 @@
 bin/
 obj/
 packages/
+nuget/
 *.user
 *.suo
 *.Publish.xml
